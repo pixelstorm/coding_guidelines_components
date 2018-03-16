@@ -25,6 +25,6 @@
 	 |- _mixins.scss 
 ```
 
-### Filestructure for a component
+### Filestructure example for a component with code
 
-![file structure for a single component](component.png)
+![file structure for a single component](components.png)
